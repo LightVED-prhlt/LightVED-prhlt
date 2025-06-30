@@ -13,22 +13,9 @@ Bienvenidos al repositorio de presentación del proyecto **LightVED**, desarroll
 - 🧾 Reconocimiento de texto manuscrito (HTR, HDR)
 - 👄 Lip reading basado en vídeo
 
-
 ## 📝 Publicaciones
 
-📚 A continuación se presentan algunas publicaciones clave que sustentan teóricamente y experimentalmente el proyecto **LightVED**.
-
-### 🎤 Congresos y Workshops
-
-1. Luis-Jesus Marhuenda, Miquel Obrador-Reina, Mohamed Aas-Alas, Alberto Albiol, Roberto Paredes  
-   *Unveiling Differences: A Vision Encoder-Decoder Model for Difference Medical Visual Question Answering*, MIDL 2025.  
-   🔗 [`OpenReview`](https://openreview.net/forum?id=8CNssOg7fk)
-
-<!-- ### 📘 Revistas científicas
-
-1. Autores
-   *Título*, Congreso Año.  
-   🔗 [`Plataforma`](#) -->
+📚 Si quieres conocer las publicaciones del proyecto visita la siguiente [página web](https://lightved-prhlt.github.io/publications/).
 
 ## 👥 Equipo de investigación
 
@@ -43,18 +30,14 @@ Además, colaboran investigadores predoctorales y técnicos especializados en vi
 - 👨🏻‍💻 Mohamed Aas Alas
 - 👨🏻‍💻 Luis Jesús Marhuenda Tendero
 - 👨🏻‍💻 Miquel Obrador Reina
+- 👨🏻‍💻 David Gimeno Gómez
 
-<!-- ---
-
-## 🚀 Repositorios relacionados
-
-- [`lightved-models`](#) — Modelos y arquitecturas de VED ligeros
-- [`lightved-data`](#) — Conjuntos de datos y utilidades
-- [`lightved-eval`](#) — Scripts de evaluación y benchmarks -->
+> Más información sobre el equipo en la [página web](https://lightved-prhlt.github.io/team/) del proyecto
 
 ## 📬 Contacto
 
 📨 Email: info@prhlt.upv.es  
+🌐 Web del proyecto: [https://lightved-prhlt.github.io](https://lightved-prhlt.github.io/)  
 🌐 Web del grupo: [https://www.prhlt.upv.es](https://www.prhlt.upv.es)  
 📍 Universitat Politècnica de València, España
 
