@@ -1,6 +1,6 @@
 # 💡 LightVED — PRHLT Research Group
 
-Bienvenidos al repositorio de presentación del proyecto **LightVED**, desarrollado por el grupo de investigación **PRHLT** (Pattern Recognition and Human Language Technologies) de la Universitat Politècnica de València (UPV). Este repositorio actúa como una **tarjeta de presentación del proyecto y sus líneas de trabajo**.
+Bienvenidos al repositorio de presentación del proyecto **LightVED**, desarrollado por el grupo de investigación **PRHLT** (Pattern Recognition and Human Language Technologies) de la Universitat Politècnica de València (UPV). LightVED ha sido subvencionado por el programa PROMETEO (CIPROM/2023/17) de la Generalitat Valenciana. Este repositorio actúa como **pagina web del proyecto y sus líneas de trabajo**.
 
 ## 🧭 Descripción del proyecto
 
